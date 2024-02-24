@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://scsole.github.io/hugo-quickstart/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
